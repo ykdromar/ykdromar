@@ -38,7 +38,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="50">&nbsp;
 
 </div>
-<h2>My Stats</h2>
+<h2>My GitHub Stats</h2>
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ykdromar&border_radius=7.2&date_format=j%20M%5B%20Y%5D&fire=FF6826&stroke=FFB912&ring=FFAB16)](https://git.io/streak-stats)
