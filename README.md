@@ -2,10 +2,10 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200px" >
 </div>
 <div align="center">
-<a href="https://www.linkedin.com/in/ykdromar/" alt="linkedin">
+<a href="https://www.linkedin.com/in/ykdromar/" alt="linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="100px" height="25">
 </a>
-<a href="https://ykdromar.github.io/" alt="website">
+<a href="https://ykdromar.github.io/" alt="website" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-orange" width="80px" height="25">
 </a>
 </div>
