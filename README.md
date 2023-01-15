@@ -21,7 +21,6 @@
 <li>👨🏻‍🎓 I am a Student at IIT Kanpur</li>
 <li>👨🏻‍💻I like to develop softwares</li>
 <li>🎮 I like to develop games</li>
-<li>🌱 I like to discuss about nature & environment</li>
 </ul>
 <h2>Languages & Technologies <h2>
 <div align="center">
@@ -42,7 +41,5 @@
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ykdromar&border_radius=7.2&date_format=j%20M%5B%20Y%5D&fire=FF6826&stroke=FFB912&ring=FFAB16)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ykdromar)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
