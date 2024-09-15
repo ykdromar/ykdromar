@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/ykdromar/" alt="linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="100px" height="25">
 </a>
-<a href="https://ykdromar.github.io/" alt="website" target="_blank">
+<a href="https://www.ykdromar.com" alt="website" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-orange" width="80px" height="25">
 </a>
 </div>
